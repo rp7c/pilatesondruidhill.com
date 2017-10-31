@@ -12,3 +12,5 @@ url: "http://locahost:4000" # the base hostname & protocol for your site
 # Build settings
 markdown: kramdown
 exclude: [README.md, assets, package.json, npmfile.js, gulpfile.js, Gemfile, Gemfile.lock, LICENSE, node_modules]
+gems:
+  - jekyll-feed
